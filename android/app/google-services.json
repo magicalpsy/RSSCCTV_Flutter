@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177618885271",
+    "project_id": "rsscctv-7921e",
+    "storage_bucket": "rsscctv-7921e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177618885271:android:b537a9472967c82f55a7d2",
+        "android_client_info": {
+          "package_name": "com.example.netflix_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177618885271-fi2lhjhgvcvhkfto3etdbnpmk552lmpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD9-g1H5XYXD_RZOT4lhMLgL953nkp7go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177618885271-fi2lhjhgvcvhkfto3etdbnpmk552lmpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
